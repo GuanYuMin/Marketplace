@@ -1,5 +1,5 @@
 .container.post {
-  height: 350px;
+  height: 450px;
   padding: 20px 20px;
   border-bottom: #648dd3 solid 5px; }
   .container.post .header p {
@@ -16,7 +16,7 @@
   .container.post .post-img {
     margin-top: 25px; }
     .container.post .post-img img {
-      height: 120px; }
+      height: 200px; }
   .container.post .body {
     margin-top: 10px; }
     .container.post .body p {
